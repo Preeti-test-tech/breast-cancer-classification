@@ -54,7 +54,7 @@ Evaluate the models using confusion matrices and classification metrics.
    
 3. Decision Tree 92.98%
 
-# The ANN achieved the highest accuracy on this test split. These results reflect one train/test split and do not necessarily represent performance on every unseen dataset.
+The ANN achieved the highest accuracy on this test split. These results reflect one train/test split and do not necessarily represent performance on every unseen dataset.
 
 # How to Run
 
